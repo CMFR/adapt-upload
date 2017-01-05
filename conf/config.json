@@ -1,0 +1,20 @@
+{
+  "serverPort": 5000,
+  "serverName": "https://murmuring-ocean-82952.herokuapp.com/",
+  "dbHost": "ds155718.mlab.com:55718 ",
+  "dbName": "heroku_t7z62kk0",
+  "dbPort": 55718,
+  "dataRoot": "data",
+  "sessionSecret": "your-session-secret",
+  "useffmpeg": false,
+  "smtpService": "none",
+  "smtpUsername": "",
+  "smtpPassword": "",
+  "fromAddress": "",
+  "outputPlugin": "adapt",
+  "dbType": "mongoose",
+  "auth": "local",
+  "masterTenantName": "master",
+  "masterTenantID": "586e71d02a41e02c0c50b173",
+  "isProduction": true
+}
